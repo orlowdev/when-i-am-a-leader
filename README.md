@@ -42,3 +42,8 @@ I also encourage you to fork this repository and adopt it as your own. Build up 
 * Respond to feedback as best you can always. Responding poorly even once can ruin a lot of trust.
 * If a direct report says that a problem is hard or challenging, do not assume that they are either not smart enough, lazy, or lying. I don't even understand why this happens. Smart people don't tell you something is difficult without having discovered precisely why a problem is challenging. Instead, ask questions and avoid all condescension. What have you learned? What are you going to try next? Do you think any outside help could help you? Why or why not? Questions will lead to more trust and more information for you.
 * The answer to a problem is not always more minds. Sometimes it's more uninterrupted time. Pay attention to the cost of interruptions! Ask if the answer to a problem is more minds or more time.
+* Take good care of less senior developers. Remember, you are the _present_ and they are the _future_.
+* Foster knowledge sharing. It broadens the minds, enables learning by teaching (by far, the most effective approach in education), and so much more - for free. 
+* **Always** outline obvious things.
+* Keep on learning. It's ok to spend working hours on improving yourself if you are good enough to avoid conflicts with what this time is intended for.
+* Keep the docs brief and to the point. It's not true that developers don't read documentation. What is true is that nobody reads _long_ documentation.
